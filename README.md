@@ -88,7 +88,7 @@
 
   <br/>
   <div align="center">
-      <img src="https://github.com/arif9799/Sales-Analysis/blob/main/Images/NetwrokGraphPairs.png" width="600" alt="Description">
+      <img src="https://github.com/arif9799/Sales-Analysis/blob/main/Images/NetworkGraphsPairs2.png" width="600" alt="Description">
       <br/>
       <img src="https://github.com/arif9799/Sales-Analysis/blob/main/Images/BarPlotPairs.png" width="400" alt="Description">
     </div>
