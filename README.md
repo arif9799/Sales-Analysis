@@ -1,3 +1,24 @@
+<p align="center">
+  
+  ___
+</p>
+<h3 align="center">
+  
+  [Product Sales Analysis, _Data Science_](https://github.com/arif9799/Sales-Analysis/blob/main/Sales_Analysis_Online_Store.ipynb)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/SalesAnalysis.gif" width="250" alt="Description">
+</p>
+<br>
+
+_DollaLlama: Wrangling Sales Data with Quirky Precision_ 
+
+Coalesced 180k+ records of sales into a file, performed Data Wrangling & Mining and Feature Engineered Variables, Envisioned strategic analysis based on Month, Quantities, Revenue generated & best-sellers to drive product decisions and Analyzed consumer behavior pattern of sales & extrapolated items to recommend based on frequently bought together.Electronic Appliances Sales Data – Exploratory Data Analysis Coalesced 180k+ records of sales into a file, performed Data Wrangling & Mining and Feature Engineered Variables, Envisioned strategic analysis based on Month, Quantities, Revenue generated & best-sellers to drive product decisions and Analyzed consumer behavior pattern of sales & extrapolated items to recommend based on frequently bought together.
+<br>
+<br>
+
 
 <h2>
     
